@@ -1,0 +1,72 @@
+/* Font Google */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100&family=Raleway:wght@600&display=swap');
+
+body{
+    height: 100vh;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    background-image: url("../img/lofi-anime-wallpaper-20101715474434-scaled.jpg");
+    background-size: cover;
+}
+
+.navbar-brand{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#main{
+    margin-top: 30vh;
+    margin-left: 20px;
+}
+
+#main h1{
+    font-size: 50px;
+}
+
+#main #btn{
+    background-color: transparent;
+    border: transparent;
+    color: white;
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 35vh;
+}
+
+footer a {
+    color: white;
+}
+footer a:hover{
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+    background-repeat: no-repeat;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    .navbar-brand{
+        margin-left: 20px;
+        font-size: 25px;
+    }
+
+    #main {
+        margin-top: 20vh;
+    }
+
+    #main h1{
+        font-size: 40px;
+    }
+    
+    #main .btn{
+        background-color: transparent;
+        border: transparent;
+        color: white;
+        font-size: 22px;
+    }
+  }
