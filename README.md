@@ -1,6 +1,4 @@
-### portfolio-web-1
-<hr>
-<br>
+### Portfolio-Web-1
 
 ## Technology
 - HTML
