@@ -1,6 +1,6 @@
-### Portfolio-Web-1
+### Portfolio Web 1
 
-## Technology
+## Technology I Use In This Project 🪐
 - HTML
 - CSS
 - Typed JS
