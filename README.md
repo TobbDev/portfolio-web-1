@@ -6,4 +6,4 @@
 - Typed JS
 - Clipboard JS
 
-> Created By TobbDev
+> **Created By [TobDev](https://www.instagram.com/paktobob/)**
