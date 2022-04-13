@@ -1,6 +1,7 @@
 ### portfolio-web-1
+<hr>
 <br>
-### Technology
+## Technology
 - HTML
 - CSS
 - Typed JS
