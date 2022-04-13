@@ -1,2 +1,7 @@
-# portfolio-web-1
-Portfolio Website #1 
+### portfolio-web-1
+<br>
+### Technology
+- HTML
+- CSS
+- Typed JS
+- Clipboard JS
